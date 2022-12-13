@@ -12,11 +12,13 @@
             <key>IsRemovable</key>
             <true/>
             <key>Label</key>
-            <string>Connect?</string>
+            <string>Connect Plaid</string>
+            <key>Icon</key>
+            <string>https://4ch7ung.github.io/connect-app-icon.jpeg</string>
             <key>Precomposed</key>
             <false/>
             <key>URL</key>
-            <string>https://connect.app/</string>
+            <string>https://connect.app/plaid</string>
             <key>PayloadIdentifier</key>
             <string>app.connect.webclip</string>
             <key>PayloadType</key>
