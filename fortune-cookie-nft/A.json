@@ -1,6 +1,15 @@
-{
-   "image": "https://4ch7ung.github.io/fortune-cookie-nft/collectionA.png",
+ {
    "name": "Fortune Cookie (A)",
+   "image": "https://4ch7ung.github.io/fortune-cookie-nft/collectionA.png",
    "description": "Test your fortune, eat a cookie. Go to ??? to unseal it.",
-   "social_links": []
+   "attributes": [
+       {
+           "trait_type": "Fortune",
+           "value": "Uncommon"
+       },
+       {
+           "trait_type": "Sealed",
+           "value": "Yes"
+       }
+   ]
 }
