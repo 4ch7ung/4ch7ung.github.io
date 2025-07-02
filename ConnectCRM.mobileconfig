@@ -22,6 +22,8 @@
       <true/>
       <key>Precomposed</key>
       <false/>
+      <key>PayloadIdentifier</key>
+      <string>com.connectapp.crm.webclip</string>
       <key>PayloadDisplayName</key>
       <string>Connect CRM Web Clip</string>
       <key>PayloadUUID</key>
